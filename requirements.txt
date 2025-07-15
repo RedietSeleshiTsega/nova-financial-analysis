@@ -5,3 +5,4 @@ textblob
 ta-lib 
 pynance 
 matplotlib
+scikit-learn
